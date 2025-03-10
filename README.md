@@ -1,4 +1,4 @@
 # Plants vs Zombies
 Копия известной игры, сделанная на Unity.
 
-![image](https://github.com/user-attachments/assets/9a448056-698a-46ef-b766-bae4632d4319)
+![image](https://github.com/user-attachments/assets/edf70578-9db0-48bf-8243-c50d1f02a2f0)
